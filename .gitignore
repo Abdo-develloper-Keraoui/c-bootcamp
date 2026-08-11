@@ -3,3 +3,10 @@
 *.o
 *.obj
 build/
+
+
+week-*/**/*
+!week-*/**/*
+
+!week-*/**/*.c
+!week-*/**/*.h
