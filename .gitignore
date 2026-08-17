@@ -9,13 +9,17 @@ build/
 
 
 # Ignore everything in week directories
-week-*/**
+week-*/**/*
 
 # unignore folders and subfolders
-!week-*/
+!week-*/**/
+
+#might still be buggy
 
 
 # unignore these files here: 
 
 !week-*/**/*.c
 !week-*/**/*.h
+!week-*/**/*.md
+
