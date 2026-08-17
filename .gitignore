@@ -10,9 +10,10 @@ build/
 
 # Ignore everything in week directories
 week-*/**
+
 # unignore folders and subfolders
 !week-*/
-!week-*/**
+
 
 # unignore these files here: 
 
